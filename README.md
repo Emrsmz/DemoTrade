@@ -1,2 +1,6 @@
 # DemoTrade
-Learning Repo for trading bot
+Learning Repo for CTrade trading bot 
+
+
+
+
