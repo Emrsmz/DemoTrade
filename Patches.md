@@ -22,7 +22,7 @@
  - Trendlerle göstergeler eşleştirilip mantık düzenlendi
 
 ## 0.06  
- - 6. Gösterge eklendi.  
+ - "6." Gösterge eklendi.  
  - Signal azlığından dolayı sınır 2 göstergeye indirildi.
 
 ## 0.07  
