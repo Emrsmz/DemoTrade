@@ -1,4 +1,5 @@
 # Patch notes for CTrade Demo
+(Every part of the development)
   
 ## 0.01  
  - Basic files created.
@@ -26,6 +27,52 @@
  - Signal azlığından dolayı sınır 2 göstergeye indirildi.
 
 ## 0.07  
+ - 2 günlük gerçek zamanlı teste bırakıldı.  
+ - Telegram ve Excel dosya düzenlemeleri.
+
+## 0.08  
+ - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
