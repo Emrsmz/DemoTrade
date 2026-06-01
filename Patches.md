@@ -31,7 +31,8 @@
  - Telegram ve Excel dosya düzenlemeleri.
 
 ## 0.08  
- - 
+ - Beklenen değer optimizasyonu.  
+ - Backtest sadakat düzenlemesi.
 
 
 
