@@ -1,0 +1,16 @@
+# Secrets: never commit the real environment file.
+.env
+
+# Claude Code local/personal settings (machine-specific).
+.claude/settings.local.json
+
+# Python caches.
+__pycache__/
+*.pyc
+
+# Runtime artifacts (regenerated automatically; not source).
+*.lock
+*.bak
+
+# Large, regenerable backtest candle caches (re-download via backtest.py).
+*.pkl

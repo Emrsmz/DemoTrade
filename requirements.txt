@@ -1,0 +1,7 @@
+ccxt
+pandas
+ta
+colorama
+odfpy
+python-telegram-bot
+python-dotenv
